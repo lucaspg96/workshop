@@ -1,2 +1,2 @@
-# workshop
-Projeto para workshop de GIT para a CEOS
+# Workshop
+Projeto para Workshop de GIT para a CEOS
