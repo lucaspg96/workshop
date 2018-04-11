@@ -1,2 +1,2 @@
-print("1")
+print("oi")
 print("2")
